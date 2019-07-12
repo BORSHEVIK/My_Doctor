@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bluelinelabs:conductor-archlifecycle:0.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/conductor-archlifecycle-0.1.1.aar/be07b580e51a2cbccc96c31eddf2a96f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/conductor-archlifecycle-0.1.1.aar/be07b580e51a2cbccc96c31eddf2a96f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bluelinelabs/conductor-archlifecycle/0.1.1/253cc52deb6b7da4db0353642154f6ed6cfc5e1/conductor-archlifecycle-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
